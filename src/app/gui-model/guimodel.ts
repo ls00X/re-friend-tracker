@@ -242,7 +242,7 @@ export class GuiModel {
                     ]
                 },
                 { 
-                    "id": "groupspage", 
+                    "id": "groupspage",  
                     "elementList": [ 
                     { 
                         "type": "backbutton", 
